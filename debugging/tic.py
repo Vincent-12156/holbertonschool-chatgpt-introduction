@@ -65,7 +65,6 @@ def tic_tac_toe():
             print("It's a draw!")
             break
 
-        # Switch player
         player = "O" if player == "X" else "X"
 
 
